@@ -110,6 +110,12 @@ TBC
 
 ![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210408194118.png)
 
+* Lasso回归和岭回归的同和异：
+    * 相同： 都可以用来解决标准线性回归的过拟合问题。 
+    * 不同： lasso 可以用来做 feature selection，而 ridge 不行。或者说，lasso 更容易使得权重变为 0，而 ridge 更容易使得权重接近 0。 从贝叶斯角度看，lasso（L1 正则）等价于参数 w 的先验概率分布满足拉普拉斯分布，而 ridge（L2 正则）等价于参数 w 的先验概率分布满足高斯分布
+    * L1惩罚项的目的是使权重绝对值最小化
+    * L2惩罚项的目的是使权重的平方最小化
+
 * 代码思路
     * 构建Lambda->交叉验证->模型拟合->最佳Lambda->基于最佳的Lambda值建模->返回岭回归系数->预测->验证
 
@@ -242,5 +248,5 @@ TBC
     * 用户生命周期价值
 
 
-## 待优化
-* 多重共线性的解决方法
+## 多重共线性
+* [多重共线性的解决方法](https://zhuanlan.zhihu.com/p/72722146)
