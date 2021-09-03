@@ -75,7 +75,7 @@ limit 1 offset 1
     * map（）中输出的数据在环形缓冲区内进行快排，每个环形缓冲区默认大小100M，当数据达到80M时（默认），把数据输出到磁盘上。形成很多个内部有序整体无序的小文件。
     * 框架把磁盘中的小文件传到Reduce()中来，然后进行归并排序，最终输出。
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210816123056.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210816123056.png)
 * 要点
     * MapReduce将输入的数据进行逻辑切片，一片对应一个Map任务
     * Map以并行的方式处理切片
@@ -118,15 +118,15 @@ limit 1 offset 1
 [Ridge回归模型和Lasso回归模型](https://www.m1sty.com/2021/dm_regression_5_practise_ridge-regression-and-lasso-regression/)
 
 * 线性回归模型的短板
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210408191356.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210408191356.png)
 
 * Ridge回归模型：为解决多元线性回归模型中可能存在的不可逆问题，统计学家提出了岭回归模型。该模型解决问题的思路就是在线性回归模型的目标函数之上增加l2正则项（也称为惩罚项）。
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210408192153.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210408192153.png)
 
 * 岭回归模型解决线性回归模型中矩阵X’X不可逆的办法是添加l2正则的惩罚项,但缺陷在于始终保留建模时的所有变量,无法降低模型的复杂度。对于此, Lasso回归采用了l1正则的惩罚项。
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210408194118.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210408194118.png)
 
 * Lasso回归和岭回归的同和异：
     * 相同： 都可以用来解决标准线性回归的过拟合问题。 
@@ -138,7 +138,7 @@ limit 1 offset 1
     * 构建Lambda->交叉验证->模型拟合->最佳Lambda->基于最佳的Lambda值建模->返回岭回归系数->预测->验证
 
     * 交叉验证
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210408192933.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210408192933.png)
 
 
 ### 逻辑回归
@@ -171,7 +171,7 @@ limit 1 offset 1
 
 ### 随机森林模型
 
-[随机森林模型](https://www.m1sty.com/2021/dm_decistion-trees_5_practise/#%E9%9A%8F%E6%9C%BA%E6%A3%AE%E6%9E%97%E7%9A%84%E6%80%9D%E6%83%B3)
+[随机森林模型](https://www.m1sty.com/2021/dm_decision-trees_5_practise/)
 
 * 决策树节点字段的选择和阈值的选择（生成算法）
     * 信息增益（ID3）
@@ -264,7 +264,7 @@ limit 1 offset 1
         * 正则化
             * L1惩罚项的目的是使权重绝对值最小化
             * L2惩罚项的目的是使权重的平方最小化
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210409123032.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210409123032.png)
 
 
 ### 分类、回归分析、时间序列分析、主成分分析等分析方法，应用场景和方法
