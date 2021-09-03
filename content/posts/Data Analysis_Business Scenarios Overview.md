@@ -50,7 +50,7 @@ date: 2021-04-25
 
 ## 数据分析流程
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210429002938.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210429002938.png)
 
 
 ## 用户流失模型
@@ -83,9 +83,9 @@ date: 2021-04-25
 
 ## RFM模型
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210429004007.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210429004007.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210429004028.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210429004028.png)
 
 ## 用户画像
 
@@ -101,7 +101,7 @@ date: 2021-04-25
 * 刻画用户需求的模型
 * 用户画像是一种公共语言，串联互联网商业
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210429004908.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210429004908.png)
 
 #### 用户画像的模型
 
@@ -114,7 +114,7 @@ date: 2021-04-25
 
 #### 用户画像的意义
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210429005159.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210429005159.png)
 
 ### 用户画像的原理
 
@@ -129,22 +129,22 @@ date: 2021-04-25
 #### 分层标签
 
 * 业务分层
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210429005639.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210429005639.png)
 
 * 流量漏斗（AARRR）
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210429005518.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210429005518.png)
 
 #### 分群标签
 
 * RFM用户分群模型
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210429005606.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210429005606.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210429005741.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210429005741.png)
 
 * 用户属性分群
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210429005838.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210429005838.png)
 
 #### 个性化标签
 
@@ -153,9 +153,9 @@ date: 2021-04-25
 * 个性化标签生成主要三种方式：人工打标签、机器打标签、混合打标签（人工+机器）。
     * 人工打标签：自然属性、社会属性、关系属性
     * 机器打标签
-    * ![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210429010023.png)
+    * ![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210429010023.png)
     * 混合打标签
-    * ![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210429010159.png)
+    * ![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210429010159.png)
 
 
 #### 用户画像的原则
@@ -183,11 +183,11 @@ date: 2021-04-25
 * 共同：自然属性、社会属性
 * 不同：百度突出垂直领域、微博突出用户关系、今日头条突出用户喜好
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210429010503.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210429010503.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210429010512.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210429010512.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210429010528.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210429010528.png)
 
 #### 推荐系统
 
@@ -199,18 +199,18 @@ date: 2021-04-25
 
 * 传统零售的人货场——管理
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210429011109.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210429011109.png)
 
 * 传统零售客单价下降的人货场——剖析
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210429011134.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210429011134.png)
 
 * 电商的人货场
     * 电商的人货场分析模型与传统零售相似，在“场”的角度略有差异，电商的场指的是APP、小程序、官网等线上渠道，不是指线下实体店、卖场。用户端看到的商品划分都是通过品类划分，点击后具体到一个SKU。另一点不同的是加入了物流维度，需要快递公司将商品从货仓运输到用户数手中。
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210429011259.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210429011259.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210429011326.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210429011326.png)
 
 
 
@@ -218,7 +218,7 @@ date: 2021-04-25
 
 [数据指标](https://zhuanlan.zhihu.com/p/186295427)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210429011459.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210429011459.png)
 
 
 ## 漏斗分析

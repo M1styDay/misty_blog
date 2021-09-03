@@ -65,17 +65,17 @@ date: 2021-03-20
 
 #### FICO credit score
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210324125327.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210324125327.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210324125356.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210324125356.png)
 
 #### FinTech - The Disrupting Force
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210324125828.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210324125828.png)
 
 #### Applying AI, machine learning and predictive analytics for credit scoring
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210324130107.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210324130107.png)
 
 #### What about bank loans & credit in China?
 
@@ -100,27 +100,27 @@ date: 2021-03-20
 
 * CreditEase created its own Credit Rating System
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210324130558.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210324130558.png)
 
 #### P2P lend
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210324131231.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210324131231.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210324131248.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210324131248.png)
 
 #### AI Red Unicorns: Dianrong and Sesame Credit
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210324131508.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210324131508.png)
 
 
 #### Ant Financial & Sesame Credit
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210324131826.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210324131826.png)
 
 
 #### Creating real-time datastreams
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210324131908.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210324131908.png)
 
 ### Takeaways
 
@@ -143,9 +143,9 @@ date: 2021-03-20
 
 #### Lemonade's AI bot 
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210324151044.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210324151044.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210324151114.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210324151114.png)
 
 #### Auto Claims: 6 days -> 6 seconds
 

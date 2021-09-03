@@ -59,15 +59,15 @@ Index-based methods
 
 * Apply on single table, or ranked lists of tuples ordered by individual attributes
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/1615041261460.jpg)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/1615041261460.jpg)
 
 * Ranked inputs in the same or different servers (centralized or distributed data)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/1615041590204.jpg)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/1615041590204.jpg)
 
 * Standalone query or operator in a more complex query plan
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/1615041663148.jpg)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/1615041663148.jpg)
 
 * Incremental retrieval of objects with highest scores (k is not predefined)
 
@@ -106,7 +106,7 @@ LIMIT 5
 
 * These sorted inputs canbe accessed sequentiallyand/or by random accesses
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/1615205673523.jpg)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/1615205673523.jpg)
 
 ### Advantages and Drawbacks
 
@@ -119,7 +119,7 @@ LIMIT 5
     * slower than index-based methods
     * require inputs to be sorted
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/1615206220821.jpg)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/1615206220821.jpg)
 
 ### TA: Threshold Algorithm
 
@@ -137,21 +137,21 @@ LIMIT 5
     * T=sum(0.9,0.9,0.9)=2.7
     * T>top-1, we proceed to another round of accesses
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/1615207174399.jpg)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/1615207174399.jpg)
 
 * **STEP 2**
     * top-1 is b, with score 2.2
     * T=sum(0.8,0.8,0.9)=2.5
     * T>top-1, we proceed to another round of accesses
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/1615208610189.jpg)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/1615208610189.jpg)
 
 * **STEP 3**
     * top-1 is b, with score 2.2
     * T=sum(0.6,0.6,0.8)=2.0
     * T≤top-1, terminate and output (b,2.2)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/1615208912717.jpg)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/1615208912717.jpg)
 
 #### Properties of TA
 * Used as a standard module for merging ranked lists in many applications
@@ -174,16 +174,16 @@ LIMIT 5
 #### Example of NRA(k=1,f=sum)
 
 * **STEP 1**
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/1615211411711.jpg)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/1615211411711.jpg)
 
 * **STEP 2**
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/1615211431867.jpg)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/1615211431867.jpg)
 
 * **STEP 3**
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/1615211449553.jpg)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/1615211449553.jpg)
 
 * **STEP 4**
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/1615211471044.jpg)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/1615211471044.jpg)
 
 #### NRA Properties
 * More generic than TA, since it does not depend on random accesses

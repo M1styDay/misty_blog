@@ -23,11 +23,11 @@ date: 2021-04-30
     * Rather than running time, scalability, etc.
 * Confusion Matrix:
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210430225315.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210430225315.png)
 
 * Most widely-used metric:
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210430225353.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210430225353.png)
 
 ### Limitation of Accuracy
 * Consider a 2-Class problem
@@ -42,11 +42,11 @@ date: 2021-04-30
 
 * Easy to get only high precision: ‘Yes’ only for instances we are “sure” about (e.g. easy to classify “robot” if 1000 pages/sec. collected) => low recall
 * Trivial to get only high recall: classify all instances as ‘Yes’ => low precision
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210501003035.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210501003035.png)
 
 
 * F-measure is the harmonic mean of p and r, which penalizes very small recall or very small precision
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210501235010.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210501235010.png)
 * E.g. : Harmonic Mean (1,2,4) = 1/ (1/3 (1+1/2+/1/4)) = 12/7 (reciprocal of the arithmetic mean of the reciprocals)
 * It can be shown min (x1,...,xn) <= H(x1,...,xn) <= n * min (x1,...,xn) 
     * min is very small then harmonic mean is very small.
@@ -89,7 +89,7 @@ date: 2021-04-30
 
 * Use statistic tools to estimate the value of a parameter in a population (e.g. Wilson score interval, Jeffrey intervals, Clopper-Pearson, etc. )
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210502000107.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210502000107.png)
 
 ### Approximating Normal Distribution
 * Normal distribution
@@ -97,4 +97,4 @@ date: 2021-04-30
     * rule of thumb: Np>5 and N(1-p)>5
 * More sophisticated techniques: Wilson score interval, Jeffrey intervals, Clopper-Pearson interval
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210502000303.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210502000303.png)

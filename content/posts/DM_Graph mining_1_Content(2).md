@@ -18,9 +18,9 @@ date: 2021-05-09
 
 #### Example
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210515110153.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210515110153.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210515110212.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210515110212.png)
 
 ### Community Detection as a Graph Problem
 
@@ -38,19 +38,19 @@ We can compile the following list of metrics (as done in $[2]$) so as to devise 
 
 ### Separability
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210515134902.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210515134902.png)
 
 ### Density
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210515135157.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210515135157.png)
 
 ### Clustering Coefficient
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210515135327.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210515135327.png)
 
 ### Modularity
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210515135729.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210515135729.png)
 
 * That is the fraction of edges within a same community minus the expected number of edges within a same community in a random graph having the same degree distribution of G (null model).
 
@@ -58,20 +58,20 @@ We can compile the following list of metrics (as done in $[2]$) so as to devise 
 
 * Given a graph G = (V , E ) a random multigraph H maintaining for each node its degree in G is produced as follows: each edge is divided into two halves (stubs) each of them being assigned uniformly at random to any stub in the graph.
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210515140210.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210515140210.png)
 
 * Each stub is assigned uniformly at random to any of the 2m stubs available. In H, we might have self loops, multiple edges per pair of nodes, multiple self loops but the same node degrees of G.
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210515140242.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210515140242.png)
 
 
 ## Facts about Modularity
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210515140428.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210515140428.png)
 
 #### Example
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210515140529.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210515140529.png)
 
 
 ### Modularity: Issues
@@ -79,7 +79,7 @@ We can compile the following list of metrics (as done in $[2]$) so as to devise 
 * Merging “well-separated cliques” (that should be identified as two different communities) might result in larger modularity. 
 * Resolution limit: “small” communities might be missed.
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210515140906.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210515140906.png)
 
 ### Optimizing Modularity
 
@@ -89,11 +89,11 @@ We can compile the following list of metrics (as done in $[2]$) so as to devise 
 
 ## The Louvain Algorithm (one of the variants)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210515141140.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210515141140.png)
 
 ### Louvain: Running Time
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210515141318.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210515141318.png)
 
 ### Facts about Louvain
 
@@ -119,7 +119,7 @@ We can compile the following list of metrics (as done in $[2]$) so as to devise 
 
 #### Example
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210515142243.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210515142243.png)
 
 ### Algorithms
 
@@ -131,28 +131,28 @@ We can compile the following list of metrics (as done in $[2]$) so as to devise 
 ### PageRank with Restart
 
 #### Matrix
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210515150024.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210515150024.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210515142431.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210515142431.png)
 
 #### Algorithm
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210515142508.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210515142508.png)
 
 
 ### Experimental Evaluation
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210515150058.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210515150058.png)
 
 #### Setting
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210515150120.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210515150120.png)
 
 #### Results
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210515150145.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210515150145.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210515150204.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210515150204.png)
 
 #### Findings
 

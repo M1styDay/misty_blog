@@ -25,7 +25,7 @@ date: 2021-04-10
 
 #### Illustrating Classification Task    
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210415145322.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210415145322.png)
 
 ### Facts about Classification
 
@@ -45,19 +45,19 @@ date: 2021-04-10
 
 ### Example of a Decision Tree
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210415150052.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210415150052.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210415150113.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210415150113.png)
 
 #### Decision Tree Classification Task
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210415150149.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210415150149.png)
 
 #### Apply Model to Test Data
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210415150233.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210415150233.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210415150524.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210415150524.png)
 
 ### Induction
 
@@ -69,9 +69,9 @@ date: 2021-04-10
 
 ### Hunt's Algorithm
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210415152329.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210415152329.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210415152306.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210415152306.png)
 
 ### General structure of tree induction
 
@@ -96,17 +96,17 @@ date: 2021-04-10
   
 #### Splitting Based on Nominal Attributes
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210415154003.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210415154003.png)
 
 #### Splitting Based on Ordinal Attributes
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210415153819.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210415153819.png)
 
 #### Splitting Based on Continuous Attributes
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210415153928.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210415153928.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210415153945.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210415153945.png)
 
 ### - How to determine the Best Split?
 
@@ -114,7 +114,7 @@ date: 2021-04-10
     * Nodes with homogeneous Class distribution are preferred
 * Need a measure of node impurity
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210415154903.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210415154903.png)
 
 *  Measures of Node Impurity
    * Gini Index
@@ -125,15 +125,15 @@ date: 2021-04-10
 
 ##### Measure of Impurity: Gini
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210415155133.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210415155133.png)
 
 ##### Examples for computing Gini
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210415155206.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210415155206.png)
 
 ##### Splitting Based on Gini
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210415155241.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210415155241.png)
 
 ##### Binary Attributes: Computing Gini
 
@@ -141,14 +141,14 @@ date: 2021-04-10
 * Effect of Weighing partitions:
     * Larger and Purer Partitions are sought for.
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210415155727.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210415155727.png)
 
 ##### Find best Gini
 
 * Categorical Attributes
     * For each distinct value, gather counts for each Class in the dataset
     * Use the count matrix to make decisions
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210415160332.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210415160332.png)
 
 * Continuous Attributes
     * Input: N records, attribute A 
@@ -163,44 +163,44 @@ date: 2021-04-10
         * return the candidate with minimum Gini
         * Running time: O (N log N)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210415160632.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210415160632.png)
 
 #### Entropy
 
 ##### Alternative Splitting Criteria based on INFO
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210415161051.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210415161051.png)
 
 ##### Examples for computing Entropy
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210415161210.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210415161210.png)
 
 ##### Splitting Based on Information Theory
 
 * Information Gain
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210415161312.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210415161312.png)
 
 * Gain Ratio
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210415161343.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210415161343.png)
 
 #### MisClassification error
 
 ##### Splitting Criteria based on Classification Error
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210415161652.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210415161652.png)
 
 ##### Examples for Computing Error
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210415161727.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210415161727.png)
 
 
 #### Comparison among Splitting Criteria
 
 * Binary Classification (2 Classes)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210415162128.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210415162128.png)
 
 * More about splitting criteria
     * Studies have shown that the choice of impurity measure has little effect on the final result
@@ -237,7 +237,7 @@ date: 2021-04-10
     * repeated access: how many times a same web page is accessed on average
     * number of images retrieved
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210415165415.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210415165415.png)
 
 * Results
     * Web robots tend to access as many pages as possible => visits are broad but shallow.
@@ -264,7 +264,7 @@ date: 2021-04-10
 
 #### Example of underfitting and overfitting
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210415165818.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210415165818.png)
 
 
 #### Results
@@ -272,17 +272,17 @@ date: 2021-04-10
 * Results after building a decision tree on the previous dataset.
 * Note that more sophisticated decision trees (larger # nodes) deliver good results in the training set but poor in the test set.
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210415165946.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210415165946.png)
 
 
 #### Overfitting 
 
 * Overfitting due to Noise
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210415170225.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210415170225.png)
 
 * Overfitting due to insufficient examples
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210415170235.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210415170235.png)
 
 * notes on overfitting
     * Overfitting results in decision trees that are more complex than necessary
@@ -315,7 +315,7 @@ date: 2021-04-10
 
 #### Minimum Description Length (MDL)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210415171242.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210415171242.png)
 
 ### How to Address Overfitting
 
@@ -338,18 +338,18 @@ date: 2021-04-10
 
 #### Example of Post-Pruning
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210415171536.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210415171536.png)
 
 
 #### Example: Web-Robot detection
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210415171637.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210415171637.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210415171649.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210415171649.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210415171705.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210415171705.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210415171715.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210415171715.png)
 
 
 ## Decision Trees: Issues
@@ -380,35 +380,35 @@ date: 2021-04-10
     * Particularly when test condition involves only a single attribute at-a-time
 
 * Decision Boundary
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210415172541.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210415172541.png)
 
 * Oblique Decision Trees
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210415172620.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210415172620.png)
 
 ### Tree Replication
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210415172640.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210415172640.png)
 
 ## pseudocode
 
 ### Simple Decision Tree
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210416111954.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210416111954.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210416112019.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210416112019.png)
 
 ### Postpruning
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210416112047.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210416112047.png)
 
 ## Random Forest
 
 ### The Random Forest Classifier
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210416112150.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210416112150.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210416112204.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210416112204.png)
 
 ### Main Idea
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210416112228.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210416112228.png)

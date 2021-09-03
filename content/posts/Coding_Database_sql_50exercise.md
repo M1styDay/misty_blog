@@ -14,7 +14,7 @@ date: 2020-12-30
 
 ### 表关系
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/0-%E8%A1%A8%E5%85%B3%E7%B3%BB.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/0-%E8%A1%A8%E5%85%B3%E7%B3%BB.png)
 
 ---
 

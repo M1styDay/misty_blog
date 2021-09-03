@@ -21,15 +21,15 @@ date: 2021-03-22
 
 #### Stafes of the Industry Life Cycle
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210328105138.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210328105138.png)
 
 #### Porter’s Five Forces Analysis of Industry Profitability
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210328105240.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210328105240.png)
 
 #### Industry Life Cycle and Five Forces
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210328105317.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210328105317.png)
 
 * Industries in the stages of Maturity and Decline will often seek government intervention or subsidies to help protect the declining industry. Often substitutes using innovation or new technology are the root cause of decline.
 * Blue Ocean Strategy, sometimes called Value Innovation provides a new approach to managing mature or declining industries.
@@ -37,7 +37,7 @@ date: 2021-03-22
 
 #### Average profitability impacted by industry stage
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210328144604.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210328144604.png)
 
 
 ### Blue Ocean Strategy
@@ -62,13 +62,13 @@ date: 2021-03-22
 
 #### The Blue Ocean Shift
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210328151210.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210328151210.png)
 
 #### How do you make the Blue Ocean Shift?
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210328153446.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210328153446.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210328153502.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210328153502.png)
 
 
 ## Class 5 Details

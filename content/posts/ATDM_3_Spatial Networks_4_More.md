@@ -17,9 +17,9 @@ date: 2021-02-07
 
 * 在算法运行的过程中，每次都从优先队列中选出代价最小的作为下一个遍历的节点。直到到达终点为止。
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210318155247.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210318155247.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210319000637.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210319000637.png)
 
 ### A* algorithm
 
@@ -32,7 +32,7 @@ date: 2021-02-07
 
 * 另外，A*算法使用两个集合来表示待遍历的节点，与已经遍历过的节点，这通常称之为open_set和close_set。
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210319001256.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210319001256.png)
 
 * 在极端情况下，当启发函数h(n)始终为0，则将由g(n)决定节点的优先级，此时算法就退化成了Dijkstra算法。
 * 如果h(n)始终小于等于节点n到终点的代价，则A*算法保证一定能够找到最短路径。但是当h(n)的值越小，算法将遍历越多的节点，也就导致算法越慢。
@@ -40,14 +40,14 @@ date: 2021-02-07
 * 如果h(n)的值比节点n到终点的代价要大，则A*算法不能保证找到最短路径，不过此时会很快。
 * 在另外一个极端情况下，如果h(n)相较于g(n)大很多，则此时只有h(n)产生效果，这也就变成了最佳优先搜索。
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210319002151.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210319002151.png)
 
 ### Bi-directional search
 
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210319003540.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210319003540.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210319003628.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210319003628.png)
 
 
 ## Spatial queries over spatial networks
@@ -106,7 +106,7 @@ date: 2021-02-07
     * Assumption: Euclidean distance lower-bounds network distance:
         * dist(v,u) ≤ SPD(v,u), for any v,u
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210319182152.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210319182152.png)
 
 ### Spatial Join Queries
 
@@ -120,11 +120,11 @@ date: 2021-02-07
 
 ### Hierarchical Path Materializatio
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210318212448.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210318212448.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210318212336.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210318212336.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210318212917.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210318212917.png)
 
 
 ### Compressing Materialized Paths

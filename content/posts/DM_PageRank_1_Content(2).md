@@ -16,9 +16,9 @@ date: 2021-03-10
 
 ## System of Linear Equations for PageRank
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210323163538.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210323163538.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210323163631.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210323163631.png)
 
 ## PageRank
 

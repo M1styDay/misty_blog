@@ -25,7 +25,7 @@ date: 2021-05-02
 * Run the program at client node, get data from the distributed system.
 * Downsides: Significant amount of data is transferred. Cluster computing resources are not used.
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210503170430.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210503170430.png)
 
 
 ### Pushing the program near the data
@@ -33,7 +33,7 @@ date: 2021-05-02
 * MapReduce: A programming model (inspired by standard functional programming operators) to facilitate the development and execution of distributed tasks.
 * Published by Google Labs in 2004 at OSDI (DG04). Widely used since then, open-source implementation in Hadoop.
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210503180127.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210503180127.png)
 
 ### MapReduce in Brief
 
@@ -76,7 +76,7 @@ function reduce(word, parSums)
 * Important: each pair, at each phase, is processed independently from the other pairs.
 * Network and distribution are transparently managed by the MapReduce environment.
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210503180758.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210503180758.png)
 
 ### Some terminology: job,task,mapper,reducer
 
@@ -89,11 +89,11 @@ function reduce(word, parSums)
 
 #### Example: term count in MapReduce (input)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210503184837.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210503184837.png)
 
 #### Example: term count in MapReduce
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210503184910.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210503184910.png)
 
 ### More on the map function
 
@@ -145,7 +145,7 @@ function reduce(word, parSums)
 
 ### Distributed execution of a MapReduce job
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210503211836.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210503211836.png)
 
 ### Failure management
 
@@ -176,7 +176,7 @@ function reduce(word, parSums)
 * A mapper task can produce a large number of pairs with the same key (e.g. (jaguar,1)), which need to be sent over the network to reducers: costly.
 * A combiner combine these pairs into a single key-value pair
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210503212203.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210503212203.png)
 
 * combiner : list(V′ ) → V′ function executed (possibly several times) to combine the values for a given key, on a mapper node.
 * No guarantee that the combiner is called

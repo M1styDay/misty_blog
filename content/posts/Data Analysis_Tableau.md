@@ -50,7 +50,7 @@ https://www.tableau.com/zh-cn/learn/whitepapers
 
 https://public.tableau.com/zh-cn/gallery/must-read-books-black-authors?tab=viz-of-the-day&type=viz-of-the-day
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/1615035810333.jpg)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/1615035810333.jpg)
 
 ### Analyzing the Work of Bob Ross
 
@@ -58,7 +58,7 @@ https://public.tableau.com/zh-cn/gallery/must-read-books-black-authors?tab=viz-o
 
 https://public.tableau.com/zh-cn/gallery/analyzing-work-bob-ross?tab=viz-of-the-day&type=viz-of-the-day
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/1615036074307.jpg)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/1615036074307.jpg)
 
 
 ### Disney+
@@ -69,7 +69,7 @@ https://public.tableau.com/zh-cn/gallery/analyzing-work-bob-ross?tab=viz-of-the-
 https://public.tableau.com/zh-cn/gallery/disney?tab=viz-of-the-day&type=viz-of-the-day
 
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/1615036260922.jpg)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/1615036260922.jpg)
 
 
 ### PPP Loan Data
@@ -79,7 +79,7 @@ https://public.tableau.com/zh-cn/gallery/disney?tab=viz-of-the-day&type=viz-of-t
 https://public.tableau.com/profile/dzifa.amexo#!/vizhome/PPPLoanData-MAD4Week7/Overview
 
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/1615037040179.jpg)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/1615037040179.jpg)
 
 
 ### Website Traffic Analysis
@@ -88,7 +88,7 @@ https://public.tableau.com/profile/dzifa.amexo#!/vizhome/PPPLoanData-MAD4Week7/O
 
 https://public.tableau.com/profile/allison.wright4813#!/vizhome/WebsiteTrafficAnalysis_16032478866130/Webalytics-AnalyticsPackage
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/1615036885457.jpg)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/1615036885457.jpg)
 
 &nbsp; 
 

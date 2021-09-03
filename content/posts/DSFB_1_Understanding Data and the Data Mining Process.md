@@ -30,17 +30,17 @@ date: 2021-05-23
 
 * Required Textbook
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210608213326.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210608213326.png)
 
 * Optional, Supplemental Book
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210608213410.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210608213410.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210608213439.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210608213439.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210608213532.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210608213532.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210608213554.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210608213554.png)
 
 
 ## Part 2: The promise and limiations of data science for business
@@ -60,7 +60,7 @@ date: 2021-05-23
 * Notice that Data Science is an empirical science. It is based upon experimentation or observation (evidence), as opposed to case studies or theoretical research methods.
 
 #### Hacking Skills / Math & Statistics Knowledge / Substantive Expertise  
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210608230038.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210608230038.png)
 
 #### Empiricism versus Rationalism
 * Empiricists believe that we learn about our world through previous experience. Rationalists believe reason is the basis for understanding anything.   
@@ -70,10 +70,10 @@ date: 2021-05-23
     * Empiricists collect data, rationalists argue we know that loyalty is driven by consumer heuristic to “keep doing it if it works”
 
 #### Data science is a proces
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210608230536.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210608230536.png)
 
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210608230605.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210608230605.png)
 
 
 #### Connection with Other Related Areas
@@ -88,7 +88,7 @@ date: 2021-05-23
 * Hadoop/MapReduce/GraphLab/Parallel Computing
  
 #### What are the most important qualities that recruiters want in a data scientist?
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210608231205.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210608231205.png)
 
 
 ### The Promise of Big Data
@@ -107,27 +107,27 @@ date: 2021-05-23
 
 * Billion Prices Project
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210608231405.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210608231405.png)
 
 * Google Correlates
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210608231452.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210608231452.png)
 
 * Tweeting about Unemployment
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210608231539.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210608231539.png)
 
 * Predicting TV Ratings
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210608233940.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210608233940.png)
 
 * Understanding Market Structure
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210608234021.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210608234021.png)
 
 * Making Better Priceing Decisions
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210608234111.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210608234111.png)
 
 #### Advantages of Big Data
 

@@ -19,7 +19,7 @@ A/B实验的目的在于通过科学的实验设计、采样样本代表性、�
 
 一个产品的流量是有限的，但是A/B实验的需求是大量的，因此在进行实验前需要确认流量必须互斥还是可以进行正交。正交实验指每个独立实验为一层，层与层之间流量是正交的，一份流量经过每层实验时，都会再次随机打散，且随机效果离散。互斥实验指实验在同一层拆分流量，且不论如何拆分，不同组的流量是不重叠的，如下图所示：
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210408215255.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210408215255.png)
 
 * 域1和域2流量进行了拆分，此时域1和域2是互斥的。一般是有相互干扰的实验需要进行流量互斥，比如同样是发促销券类活动，只是不同的业务团队发放的，那么域1和域2的流量就要拆分开，避免互相进行干扰，影响实验最终结果。
 
@@ -55,7 +55,7 @@ A/B实验的目的在于通过科学的实验设计、采样样本代表性、�
 
 P值即概率，反映某一事件发生的可能性大小。统计学根据显著性检验方法所得到的P值，一般以P < 0.05 为有统计学差异， P<0.01为有显著统计学差异，P<0.001为有极其显著的统计学差异。其含义是样本间的差异由抽样误差所致的概率小于0.05 、0.01、0.001。实际上，P值不能赋予数据任何重要性，只能说明某事件发生的几率。
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210820145616.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210820145616.png)
 
 
 ### 假设检验中的显著性水平α
@@ -65,35 +65,35 @@ P值即概率，反映某一事件发生的可能性大小。统计学根据显�
 * 如果P≤α，那么拒绝原假设
 * 如果P>α，那么不能拒绝原假设
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210820145318.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210820145318.png)
 
 
 ### Z检验
 检验方法有t检验、Z检验、χ2检验和F检验。在A/B实验中，主要是对样本均值进行检验，所以用t检验和Z检验。在样本数量比较大情况下，采用Z检验，A/B实验中双样本Z检验公式如下：
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210408215825.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210408215825.png)
 
 * t检验：t检验常用于总体正态分布、总体方差未知或独立小样本平均数的显著性检验、平均数差异显著性检验。
 * Z检验：Z检验常用于总体正态分布、方差已知或独立大样本的平均数的显著性和差异的显著性检验。
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210820150119.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210820150119.png)
 
 ### 置信区间
 
 置信区间是用来对一个概率样本的总体参数进行区间估计的样本均值范围，它展现了这个均值范围包含总体参数的概率，这个概率称为置信水平。置信水平代表了估计的可靠度，一般来说使用95%的置信水平进行区间估计。置信区间可以辅助确定版本间是否有存在显著差异的可能性：如果置信区间上下限的值同为正或负，认为存在有显著差异的可能性；如果同时有负值和正值，那么则认为不存在有显著差异的可能性。
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210408215857.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210408215857.png)
 
 根据统计学的中心极限定理，样本均值的抽样分布呈整体分布，因此通过下面的公式可以计算出两个总体均值差的95%置信区间：
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210408215944.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210408215944.png)
 
 
 ### 统计功效
 
 当两个不同版本之间存在显著差异时，实验能正确做出存在差异判断的概率。可以理解为有多少的把握认为版本之间有差别。该值越大则表示概率越大、功效越充分。一般来说，设定最低的统计功效值为80%，统计功效的计算如下：
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210408220017.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210408220017.png)
 
 * σ是标准差
 * Φ是标准正态分布下某个X值对应的概率面积
@@ -114,7 +114,7 @@ P值即概率，反映某一事件发生的可能性大小。统计学根据显�
 * 实验周期：测试1周，周期内不进行打散
 * 最小样本量确定：输入原始的召回率、策略优化后的召回率以及显著性水平，网上有很多类似的工具，下面是来自https://www.eyeofcloud.com/124.html计算的结果，最少需要5300的样本量
 * 实验分组及策略
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210408220316.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210408220316.png)
 
 ### 上线实验与过程监控
 
@@ -129,7 +129,7 @@ P值即概率，反映某一事件发生的可能性大小。统计学根据显�
 
 通过试验组1、实验组2、实验组3分别和对照进行对比，能得出3组策略的效率。ROI的分子是投入的总资源成本，产出可以是用户的原价交易额、单量、利润等信息，此处用原价交易额作为产出，来评估不同策略的召回效率，最终结果如下所示。可以看到：
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210408220542.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210408220542.png)
 
 * 3种召回策略ROI均置信，且ROI由高到底是实验组2（满30-6）>实验组3（满40-10）>实验组1（满20-5）
 * 虽然单量最高的实验组1，但是由于实验组1发券的门槛低只有20元，导致最后的交易额增量不如实验组2和实验组3

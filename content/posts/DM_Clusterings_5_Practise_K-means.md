@@ -25,9 +25,9 @@ K-means聚类算法利用距离远近的思想将目标数据为制定的k个簇
  
 ### 原理介绍
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210311172801.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210311172801.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210311172836.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210311172836.png)
 
 
 ## 最佳K值的选择
@@ -58,19 +58,19 @@ def k_SSE(X,cluster):
         TSSE.append(np.sum(SSE))
 ```
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210311180151.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210311180151.png)
 
 ### 轮廓系数法
 
 该方法综合考虑了簇的密集性和分散性两个信息，如果数据集被分割为理想的k各簇，那么对应的簇内样本会很密集，而簇间样本会很分散，轮廓系数的计算公式可以表示为：
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210311174618.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210311174618.png)
 
 其中，a(i)体现了簇内的密集性，代表样本i与同簇内其他样本点距离的平均值；b(i)反映了簇间的分散性，它的计算过程是，样本i与其他非同簇样本点距离的平均值，然后从平均值中挑选出最小值。
 
 当S(i)接近于-1时，说明样本i分配的不合理，需要将分配到其他簇中；当S(i)近似为0时，说明样本i落在了模糊地带，即簇的边界处；当S(i)近似为1时，说明样本i的分配是合理的。
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210311175629.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210311175629.png)
 
 ```python
 # 构造自定义函数
@@ -86,7 +86,7 @@ def k_silhouette(X,clusters):
         S.append(metrics.silhouette_score(X, labels, metric = 'euclidean'))
 ```
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210311180217.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210311180217.png)
 
 ## Kmeans聚类的实操
 
@@ -257,7 +257,7 @@ plt.ylabel('花瓣宽度')
 plt.show()
 ```
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210311180930.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210311180930.png)
 
 ### NBA球员聚类--未知k值的情况
 
@@ -280,7 +280,7 @@ sns.lmplot(x = '得分', y = '命中率', data = players,
 plt.show()
 ```
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210311181102.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210311181102.png)
 
 
 ```python

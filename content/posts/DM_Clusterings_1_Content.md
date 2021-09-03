@@ -52,11 +52,11 @@ partitional sets of clusters
 
 ### Partitional Clustering
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309153046.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309153046.png)
 
 ### Hieratchical Clustering
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309153134.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309153134.png)
 
 ### Other Distinctions Between Sets of Clusters
 
@@ -125,13 +125,13 @@ Output: A (partitional) clustering of S
 
 #### Importance of Choosing Initial Centroids
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309161318.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309161318.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309161356.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309161356.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309161425.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309161425.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309161454.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309161454.png)
 
 #### Problems with Initial Centroids (Adv. Topic)
 
@@ -143,13 +143,13 @@ Need to select 1 point per cluster!
 (k-1)/k, the 3rd point in a new cluster is (k-2)/k...
 
 * Prob. to select exactly one point per cluster =
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309161823.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309161823.png)
 
   * For example, if K = 9, then probability = 9!/$9^9$
 
 #### Evaluating K-means Clusterings
 * Most common measure is Sum of Squared Error (SSE)
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309162226.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309162226.png)
 
   * where x is a point in cluster $C_i$ and $m_i$ is the centroid of cluster $C_i$
 
@@ -166,11 +166,11 @@ Need to select 1 point per cluster!
     * Lemma 3. The total number of possible clusterings is finite (< n^k).
 
 * Lemma 1
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309162741.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309162741.png)
 
 
 * Lemma 2
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309163125.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309163125.png)
 
 * Theorem. K-means always terminates
 
@@ -224,13 +224,13 @@ One solution is to use many clusters.
 Find parts of clusters, but need to put together.
 
 * Sizes
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309182850.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309182850.png)
 
 * Densities
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309182929.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309182929.png)
 
 * Non-globular shapes
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309183054.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309183054.png)
 
 ### Hieratchical clustering
 
@@ -240,7 +240,7 @@ Find parts of clusters, but need to put together.
 * Can be visualized as a dendrogram
     * A tree like diagram that records the sequences of merges or splits
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309183228.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309183228.png)
 
 #### Strengths of Hierarchical Clustering
 
@@ -275,21 +275,21 @@ Find parts of clusters, but need to put together.
 #### Example of Agglomerative Clustering Algorithm
 * Starting Situation
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309184040.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309184040.png)
 
 * Intermediate Situation
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309184113.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309184113.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309184153.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309184153.png)
 
 * After Merging
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309184317.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309184317.png)
 
 * How to Define Inter-Cluster Similarity
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309184436.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309184436.png)
 
 #### Hierarchical Clustering: Problems and Limitations
 
@@ -330,7 +330,7 @@ Find parts of clusters, but need to put together.
 * SSE is good for comparing two clusterings or two clusters (average SSE).
 * Can also be used to estimate the number of clusters
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309185507.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309185507.png)
 
 ### External Measures of Cluster Validity: Entropy
 
@@ -338,19 +338,19 @@ Find parts of clusters, but need to put together.
 
 * Given a discrete random variable X with possible value {1,..,n} entropy is defined as
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309185711.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309185711.png)
 
 * Entropy measure how uncertain is an event, the larger the entropy the more uncertain is the event
 
 #### Intuition
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309185818.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309185818.png)
 
 #### Example
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309190157.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309190157.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309190558.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309190558.png)
 
 ### Final Comment on Cluster Validity
 “The validation of clustering structures is the most difficult and frustrating part of cluster analysis. Without a strong effort in this direction, cluster analysis will remain a black art accessible only to those true believers who have experience and great courage.”
@@ -361,7 +361,7 @@ Algorithms for Clustering Data, Jain and Dubes
 
 ### Algorithm
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309191210.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309191210.png)
 
 ### Introduction
 

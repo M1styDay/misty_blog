@@ -8,15 +8,15 @@ date: 2021-01-03
 
 ## 线性回归模型的短板
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210408191356.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210408191356.png)
 
 ### 当列数比行数多
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210408191539.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210408191539.png)
 
 ### 当列之间存在多重共线性
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210408191615.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210408191615.png)
 
 ## 岭回归模型
 
@@ -24,25 +24,25 @@ date: 2021-01-03
 
 ### 表达式
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210408192153.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210408192153.png)
 
 ### 系数求解
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210408192221.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210408192221.png)
 
 ### 凸优化的等价命题
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210408192739.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210408192739.png)
 
 ### 系数求解的几何意义
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210408192828.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210408192828.png)
 
 ### 交叉验证法
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210408192933.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210408192933.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210408192957.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210408192957.png)
 
 
 ## Lasso模型
@@ -51,20 +51,20 @@ date: 2021-01-03
 
 ### 表达式
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210408194118.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210408194118.png)
 
 ### 凸优化的等价命题
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210408194150.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210408194150.png)
 
 ### 系数求解的几何意义
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210408194237.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210408194237.png)
 
 
 ### 交叉验证法
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210408194304.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210408194304.png)
 
 
 ## 实操
@@ -138,7 +138,7 @@ RMSE = np.sqrt(mean_squared_error(y_test,ridge_predict))
 RMSE
 ```
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210408202121.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210408202121.png)
 
 
 ### Lasso回归
@@ -171,4 +171,4 @@ RMSE = np.sqrt(mean_squared_error(y_test,lasso_predict))
 RMSE
 ```
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210408202201.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210408202201.png)

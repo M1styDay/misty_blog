@@ -45,13 +45,13 @@ legal protest strategy by reading up on many county parking laws and successful 
 
 #### Valuable unstructured data “locked up” in companies
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210316234907.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210316234907.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210316234959.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210316234959.png)
 
 ####  Can AI in phones, sensors, IoT & smart cars & fridges unlock unstructured data?
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210316235204.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210316235204.png)
 
 
 #### Core Components of an AI/ML system
@@ -140,7 +140,7 @@ https://www.youtube.com/watch?v=f2Gg1W6PAEY&list=PLw540Wq5kay866m6A6xI7KOwE_Ah7i
 4. Apply algorithms
 
 #### 3-1-0 Smart Loan Virtuous Loop
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210317002302.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210317002302.png)
 
  
 #### Credit scores based on phone data
@@ -151,15 +151,15 @@ https://www.youtube.com/watch?v=f2Gg1W6PAEY&list=PLw540Wq5kay866m6A6xI7KOwE_Ah7i
 
 #### Tala...Smart Loan Virtuous Loop
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210317002613.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210317002613.png)
 
 
 #### Approve more customers, lower risk...
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210317003001.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210317003001.png)
 
 ####  Lenddo...Social Credit Scoring Service
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210317003158.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210317003158.png)
 
 ### Test
 

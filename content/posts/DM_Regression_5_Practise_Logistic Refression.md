@@ -9,47 +9,47 @@ date: 2021-01-04
 # 逻辑回归模型
 
 ## 介绍
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210416154938.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210416154938.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210416154959.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210416154959.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210416155114.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210416155114.png)
 
 ## 参数求解过程
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210416155420.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210416155420.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210416155435.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210416155435.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210416155448.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210416155448.png)
 
 ## 系数含义
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210416155600.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210416155600.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210416155610.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210416155610.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210416155621.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210416155621.png)
 
 ## 常见的模型评估方法
 
 ### 混淆矩阵
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210416155854.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210416155854.png)
 
 ### ROC曲线
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210416155948.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210416155948.png)
 
 ### KS曲线
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210416160103.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210416160103.png)
 
 ## 应用实操
 
 ### 函数说明
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210416160201.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210416160201.png)
 
 ### 代码
 

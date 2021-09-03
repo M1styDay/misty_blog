@@ -48,7 +48,7 @@ date: 2021-06-10
 * An unsupervised learning method that organizes and simplifies the structure for large, complex data sets
 * Example: Find a “natural” grouping of data given unlabeled data with two variables (dimensions)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210615233649.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210615233649.png)
 
 #### Types of Clustering Methods
 
@@ -64,18 +64,18 @@ date: 2021-06-10
 
 #### Using Cluster Analysis to Understand
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210615233901.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210615233901.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210615233934.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210615233934.png)
 
 
 #### Using Cluster Analysis to Summarize Psychographic Sementation for Weight-Loss
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210615234240.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210615234240.png)
 
 #### Example: PersonicX.com Lifestyle Segmentaion
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210615234356.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210615234356.png)
 
 
 ### Distance Based Approaches
@@ -88,11 +88,11 @@ date: 2021-06-10
 
 #### Clustering works by measuring distance between records
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210615234718.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210615234718.png)
 
 #### Distance metrics implicitly reflect judgment about importance
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210615235430.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210615235430.png)
 
 #### Distances
 
@@ -118,22 +118,22 @@ date: 2021-06-10
 * We know that it is made up of 3 groups each with 5 observations
 * Our true grouping of the data shows three distinct groups
  
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210615235922.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210615235922.png)
 
 #### The goal of cluster analysis is to reconstruct the true grouping but without knowing the group
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210615235959.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210615235959.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210616000301.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210616000301.png)
 
 
 #### How do we decide which is the best "solution"
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210616000610.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210616000610.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210616000705.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210616000705.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210616000741.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210616000741.png)
 
 
 #### K-Means decomposes variation into between (explained) and within (unexplained)
@@ -143,11 +143,11 @@ date: 2021-06-10
     * SStotal = SSwithin + SSbetween
 * Define centroid of a group of observations to be the mean or average of each of the field values for those points (convert discrete and ranks to numeric values)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210616000924.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210616000924.png)
 
 #### K-Means attempts to find the best solution by iterating upon an initial solution
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210616001108.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210616001108.png)
 
 
 
@@ -163,13 +163,13 @@ date: 2021-06-10
 * Number of clusters, K, must be specified
 * The basic algorithm is very simple
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210616001355.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210616001355.png)
 
 #### K-Means Example (Geometric Perspective)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210616001550.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210616001550.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210616001603.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210616001603.png)
 
 
 #### K-means Clustering - Detail
@@ -214,9 +214,9 @@ date: 2021-06-10
 
 #### Internal Measures: Cohesion and Separation
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210616002753.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210616002753.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210616003154.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210616003154.png)
 
 
 #### Evaluating K-means Clusters
@@ -224,7 +224,7 @@ date: 2021-06-10
 * Most common measure is Sum of Squared Error (SSE) or Within Sum of Squares (WSS)
     * For each point, the error is the distance to the nearest cluster
     * To get SSE, we square these errors and sum them.
-    * ![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210616004443.png)
+    * ![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210616004443.png)
     * x is a data point in cluster Ci and mi is the representative point for cluster Ci 
         * can show that mi corresponds to the center (mean) of the cluster
     * Given two clusters, we can choose the one with the smallest error
@@ -239,7 +239,7 @@ date: 2021-06-10
 * SSE is good for comparing two clusterings or two clusters (average SSE). 
 * Can also be used to estimate the number of clusters
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210616005108.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210616005108.png)
 
 
 #### Framework for Cluster Validity
@@ -262,15 +262,15 @@ Customer Segmentation using k-Means
 
 #### Introduction to Lending Club
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210616005556.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210616005556.png)
 
 #### Two-sided Market
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210616005837.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210616005837.png)
 
 #### Lending Club Dataset
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210616005924.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210616005924.png)
 
 #### In-Class Exercise Cluster Analysis of Lending Club
 
@@ -283,29 +283,29 @@ Customer Segmentation using k-Means
 
 #### Understanding Boxplots
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210616012202.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210616012202.png)
 
 #### Parallel Lines Visualization
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210616012226.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210616012226.png)
 
 #### Scatterplot Matrix
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210616012250.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210616012250.png)
 
 #### K-Means Cluster for Lending Club Data
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210616012318.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210616012318.png)
 
 #### Understanding k-means output
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210616012342.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210616012342.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210616012410.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210616012410.png)
 
 #### Choosing the Number of Clusters Using a Scree Plot
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210616012437.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210616012437.png)
 
 #### How do we interpret our clusters
 
@@ -317,7 +317,7 @@ Customer Segmentation using k-Means
 
 #### Interpreting our Clusters (Use the Parallel Lines Plot to Compare Centroids Graphically)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210616012510.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210616012510.png)
 
 
 ### Conclusions 

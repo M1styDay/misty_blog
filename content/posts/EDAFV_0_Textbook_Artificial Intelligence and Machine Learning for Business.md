@@ -151,7 +151,7 @@ of regression models are:
 * There is however , a third option . Let's say that what Im really interested in doing is retaining profitable customers , and I don't care bout losing the unprofitable ones who don't spend much on their cards . In this situation , then possibly the best approach is to build two separate predictive models as folows:
   * An attrition model to predict those customers most likely to defect to a rival product ( Classification )
   * A revenue model to identify which customers spend the most(Regression)
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210318111658.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210318111658.png)
 
 
 
@@ -227,7 +227,7 @@ This is another great feature of machine learning . This is because means that o
 
 #### The operation of the neuron
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210411000954.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210411000954.png)
 
 1. The observation data , such as Age and BMI , provides the inputs to the neuron.
 2. Each input is multiplied by a weight ( which can be positive or negative ) . For non-numeric data such as gender or smoker , 0 / 1 flags are used to represent each condition . For example, 1 if female, O if male.
@@ -235,7 +235,7 @@ This is another great feature of machine learning . This is because means that o
 4. After the initiall score has been calculated it is transformed. Often this is to force the score to be in the range 0-1 . This transformation is not absolutely essential but is deemed good practice . This is so that when the neuron is combined with others to produce a neural network , all the neurons produce values in the same range ; i.e. between 0 and 1.
 5. The transformed version of the initial score is the output score produced by the neuron
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210411003929.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210411003929.png)
 
 * The inputs to each neuron in a given layer are the same ( e . g Age , BMI etc for the first layer neurons , but the weights within each neuron are different . Therefore , each neuron produces a different score
 * The outputs ( the scores ) from the first set of neurons ( the first layer ) provide the inputs to the second set of neurons ( the second layer)

@@ -14,7 +14,7 @@ date: 2021-02-17
 * Worst-case memory consumption is strictly bounded → O(k)
 
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210317143350.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210317143350.png)
 
 ## No-Random-Access Algorithm (NRA) 
 
@@ -22,6 +22,6 @@ date: 2021-02-17
 * Worst-case memory consumption bounded by index size → O(m*n + k)
 
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210317153713.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210317153713.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210317210135.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210317210135.png)

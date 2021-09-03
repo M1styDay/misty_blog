@@ -21,7 +21,7 @@ date: 2021-01-07
 * 并非所有的强关联规则都是有趣的。因此,应当用模式评估度量来扩展支持度-置信度框架，促进更有趣的规则的挖掘，以产生更有意义的相关规则。一种度量是零不变的，如果它的值不受零事务（即不包含所考虑项集的事务）的影响。在许多模式评估度量中,我们考察了提升度、X、全置信度、最大置信度、 Kuczynski和余弦，并且说明只有后4种是零不变的。我们建议把Kuczynski度量与不平衡比一起使用，提供项集间的模式联系。
 
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210313231150.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210313231150.png)
 
 
 ### 第7章小结
@@ -35,4 +35,4 @@ date: 2021-01-07
 * 可以产生语义注解，帮助用户理解发现的频繁模式的含义。这样的注解蕾丝词典，提供关于项的语义信息。这些信息包括语境提示符（例如，指示模式语境的术语）/最具代表性的事务（例如，包括该术语的片段或语句）和语义最相似的模式。这种注解从不同角度提供了模式的语境视图，有助于理解它们。
 * 频繁模式挖掘具有形形色色的应用，涵盖从基于模式的数据清理，到基于模式的分类、聚类、离群点或异常分析。
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210313231230.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210313231230.png)

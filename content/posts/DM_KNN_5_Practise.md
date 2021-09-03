@@ -26,7 +26,7 @@ date: 2021-04-21
 
 * 根据经验发现，不同的k值对模型的预测准确性会有比较大的影响，如果k值过于偏小，可能会导致模型的过拟合；反之，又可能会使模型进入欠拟合状态。
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210422171643.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210422171643.png)
 
 ### 设置投票权重/多重交叉检验
 
@@ -34,27 +34,27 @@ date: 2021-04-21
 * 另一种是采用多重交叉验证法，该方法是目前比较流行的方案，其核心就是将k取不同的值，然后在每种值下执行m重的交叉验证，最后选出平均误差最小的k值。
 * 也可以将两种方法结合，选出理想的k值。
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210422172152.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210422172152.png)
 
 ## 距离度量
 
 ### 欧氏距离
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210422172330.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210422172330.png)
 
 ### 曼哈顿距离
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210422172346.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210422172346.png)
 
 ### 余弦相似度
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210422172404.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210422172404.png)
 
 ## 代码
 
 ### 函数说明
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210422172437.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210422172437.png)
 
 ### 代码演示
 

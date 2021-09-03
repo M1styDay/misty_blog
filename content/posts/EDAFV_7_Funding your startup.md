@@ -22,7 +22,7 @@ date: 2021-03-26
 
 #### Lean Startup Methodology
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210413103043.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210413103043.png)
 
 #### Forming a Team w. Complementary Skills
 
@@ -83,11 +83,11 @@ Steve Blank’s Lessons Learned:
 
 ####  VC view of “Smart” Startups: Roadmap to AI Data Success
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210413112955.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210413112955.png)
 
 #### Affirm
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210413113052.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210413113052.png)
 
 * Affirm's "AI Data Playbook"
     * Seed stage: Use public data to provide SMB & online merchants with financing to customers.
@@ -96,16 +96,16 @@ Steve Blank’s Lessons Learned:
 
 * Affirm lending virtuous loop
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210413113242.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210413113242.png)
 
 #### Red Unicorns have Speed, Scale, Scope
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210413113937.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210413113937.png)
 
 
 #### Proof points
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210413114021.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210413114021.png)
 
 ### Takeaways
 

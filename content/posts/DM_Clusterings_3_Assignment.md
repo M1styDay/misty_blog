@@ -11,7 +11,7 @@ date: 2021-02-08
 ## Theoretical exercises on K-means
 ### Qustion 1
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309213215.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309213215.png)
 
 ### Answer 1
 
@@ -21,7 +21,7 @@ Input P1=(0,0), P2=(0,1/2), P3=(1,1/2), P4=(1,1), P5=(4,0), P6=(4,1), P7=(5,1)
 
 Set P1=(0,0) and P4=(1,1) as centroids
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309224023.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309224023.png)
 
 #### Reclustering
 
@@ -41,7 +41,7 @@ P2 is assigned to the red cluster
 
 P3,P5,P6,P7 are assigned to the green cluster
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309224132.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309224132.png)
 
 * Recomputing centroids
 
@@ -67,7 +67,7 @@ P1,P2,P3,P4 is assigned to the red cluster
 
 P5,P6,P7 are assigned to the green cluster
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309230000.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309230000.png)
 
 * Recomputing centroids
 
@@ -93,18 +93,18 @@ P1,P2,P3,P4 stay the red cluster
 
 P5,P6,P7 stay the green cluster
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309230000.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309230000.png)
 
 * Final Clustering
 
 As the clustering did not change , the algorithm terminates with the following final clustering:
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309230000.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309230000.png)
 
 
 ### Qustion 2
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309213258.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309213258.png)
 
 ### Answer 2
 
@@ -117,9 +117,9 @@ https://blog.csdn.net/shwan_ma/article/details/80096408
 
 ### Qustion 3
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210312000759.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210312000759.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210312000841.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210312000841.png)
 
 ### Answer 3
 

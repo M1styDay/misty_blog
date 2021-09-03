@@ -37,7 +37,7 @@ https://www.forbes.com/sites/gregsatell/2016/09/18/4-ways-every-business-needs-t
 
 *  The “Core” Deep Learning Breakthroughs: Vision and Language
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210331233816.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210331233816.png)
 
 #### Alexa Voice Engine & Applied AI Services
 
@@ -70,15 +70,15 @@ Core Components of most AI/ML applications p.11:
 
 #### From Scorecards to Decision Trees
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210331234609.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210331234609.png)
 
 #### An Artificial Neuron
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210331234655.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210331234655.png)
 
 #### A Neural Network Model
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210331234724.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210331234724.png)
 
 #### Deep Learning
 
@@ -94,11 +94,11 @@ Core Components of most AI/ML applications p.11:
 
 #### Create a common sense baseline first...
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210331235240.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210331235240.png)
 
 #### White box vs. Black box AI
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210331235339.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210331235339.png)
 
 #### The Ethics of Applied AI & Deep Learning
 
@@ -107,7 +107,7 @@ Core Components of most AI/ML applications p.11:
 
 #### AI InsurTech & Neural Net Risk Analysis
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210331235520.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210331235520.png)
 
 
 

@@ -38,7 +38,7 @@ date: 2021-02-10
 * Adjacency matrix only appropriate for dense graphs
 * Spatial networks are sparse: use adjacency lists instead
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210318151700.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210318151700.png)
 
 ### Storing Large Spatial Networks
 
@@ -47,7 +47,7 @@ date: 2021-02-10
     * partition adjacency lists to disk blocks (based on proximity)
     * create B+-tree index on top of partitions (based on node-id)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210318151912.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210318151912.png)
 
 
 ## Shortest Path Search
@@ -68,17 +68,17 @@ date: 2021-02-10
 
 * idea: incrementally explore the graph around s, visitingnodes in distance order to suntil t is found (like NN)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210318153206.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210318153206.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210318153251.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210318153251.png)
 
 #### Algorithm
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210318155247.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210318155247.png)
 
 #### Example
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210318155434.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210318155434.png)
 
 #### Illustrating
 
@@ -102,11 +102,11 @@ date: 2021-02-10
         * dist(v,t): Euclidean distance between v and t
     * Original Dijkstra visits nodes in increasing SPD(s,v) order
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210318161300.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210318161300.png)
 
 #### Example
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210318161409.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210318161409.png)
 
 #### Illustrating 
 
@@ -126,7 +126,7 @@ date: 2021-02-10
 
 #### Example
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210318162955.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210318162955.png)
 
 ### Discussions
 
@@ -148,7 +148,7 @@ date: 2021-02-10
     * Mobile user locations
 * Solve problem by introducing 2 more nodes
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210318194209.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210318194209.png)
 
 
 #### Spatial Queries over Spatial Networks
@@ -161,7 +161,7 @@ date: 2021-02-10
     * Nearest neighbor search. Ex: find k nearest restaurants from present position
     * Joins. Ex: find pairs of restaurants and hotels at most 100m from each other
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210318194820.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210318194820.png)
 
 #### Methodology
 
@@ -189,15 +189,15 @@ date: 2021-02-10
 
 * Step 1: find network edge which contains q
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210318200307.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210318200307.png)
 
 * Step 2: traverse network to find all edges (or parts of them within distance 10 from q)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210318200411.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210318200411.png)
 
 * Step 3: find restaurants that intersect the subnetwork computed at step 2
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210318200747.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210318200747.png)
 
 
 ### Evaluation of Spatial Selections (2)
@@ -219,11 +219,11 @@ date: 2021-02-10
 
 * Step 1: find restaurants for which the Euclidean distance to q is at most 10: S={r1,r2,r3}
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210318201746.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210318201746.png)
 
 * Step 2: for each restaurant in S, compute SPD to q and verify if it is indeed a correct result
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210318201902.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210318201902.png)
 
 
 
@@ -253,7 +253,7 @@ date: 2021-02-10
     * Assumption: Euclidean distance lower-bounds network distance:
         * dist(v,u) ≤ SPD(v,u), for any v,u
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210318202323.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210318202323.png)
 
 #### Example
 
@@ -286,7 +286,7 @@ date: 2021-02-10
 * Dijkstra’s algorithm and related methods could be very expensive on very large graphs
 * (Partial) materialization of shortest paths in static graphs can accelerate search
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210318204015.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210318204015.png)
 
 ### Hierarchical Path Materialization
 
@@ -299,14 +299,14 @@ date: 2021-02-10
 * Compute and materialize SPs between every pair of border nodes (matrix B)
     * If border nodes too many, hierarchically partition them into 2nd-level partitions
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210318212336.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210318212336.png)
 
 #### algorithm
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210318212448.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210318212448.png)
 
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210318212917.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210318212917.png)
 
 #### Illustrating 
 
@@ -317,7 +317,7 @@ date: 2021-02-10
     * Non-highway nodes in local partitions
     * Highway nodes become border nodes
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210318212951.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210318212951.png)
 
 
 
@@ -327,7 +327,7 @@ date: 2021-02-10
 * Distance matrix with successors has O($n_2$) space cost
 * Motivation: reduce space by grouping targets based on common successors
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210318213153.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210318213153.png)
 
 #### algorithm
 
@@ -336,7 +336,7 @@ date: 2021-02-10
     * succ: a successor of s
     * R: a continuous region, such that for each t in R, the successor of s in SP(s,t) is succ
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210318213322.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210318213322.png)
 
 * To compute SP(s,t) for a given s, t:
     1. SP=s

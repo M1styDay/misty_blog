@@ -12,39 +12,39 @@ date: 2021-02-09
 
 ### Input Points
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309193007.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309193007.png)
 
 ### Centroids
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309193112.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309193112.png)
 
 ### Reclustering
 
 #### step 1
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309193233.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309193233.png)
 
 #### Recomputing centroids
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309193329.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309193329.png)
 
 #### step 2
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309193439.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309193439.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309193531.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309193531.png)
 
 #### Recomputing the centroids
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309193616.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309193616.png)
 
 #### step 3
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309193653.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309193653.png)
 
 ### Final Clustering
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309193738.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309193738.png)
 
 
 
@@ -52,22 +52,22 @@ date: 2021-02-09
 
 ### Probaility distribution
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309194902.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309194902.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309194941.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309194941.png)
 
 ### Sampling points
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309195216.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309195216.png)
 
 
 ### Examples
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309204543.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309204543.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309204609.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309204609.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309204634.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309204634.png)
 
 ### K-means-
 
@@ -77,17 +77,17 @@ The algorithm selects the first point randomly. Let t be any step of the algorit
 
 ### K-means++ vs. K-means-
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309205125.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309205125.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309205147.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309205147.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309205211.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309205211.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309205234.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309205234.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309205300.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309205300.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210309205322.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210309205322.png)
 
 ## Supplement
 

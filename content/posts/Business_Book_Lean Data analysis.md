@@ -53,15 +53,15 @@ date: 2020-11-29
 	  
 	  - 同期群分析适用于营收、客户流失率、口碑的病毒式传播、客户支持成本等数据指标
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/1-1.jpg)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/1-1.jpg)
 
 - 精益数据分析周期
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/1-2.jpg)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/1-2.jpg)
 
 ### 精益画布
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/1-3.jpg)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/1-3.jpg)
 
 
 
@@ -144,16 +144,16 @@ date: 2020-11-29
 
 - 创业增长金字塔（增长黑客）
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/2-1.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/2-1.png)
 
 - 总结：精益分析各个阶段
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/2-2.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/2-2.png)
 
 
 ### 商业模式
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/2-3.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/2-3.png)
 
 ### 第一关键指标的约束力（OMTM）
 
@@ -217,7 +217,7 @@ date: 2020-11-29
 
 - 买家在电商网站中的历程+关键指标
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/2-4.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/2-4.png)
 
 ### 商业模式二：SaaS
 
@@ -282,7 +282,7 @@ date: 2020-11-29
 
 - SaaS用户流程
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/2-5.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/2-5.png)
 
 - ClearFit：放弃月费模式后获得了10倍增长
 

@@ -15,7 +15,7 @@ date: 2021-04-06
 * 图中的决策树呈现自顶向下的生长过程，深色的椭圆表示树的根节点;浅色的椭圆表示树的中间节点;方框则表示树的叶节点。
 * 对于所有的非叶节点来说，都是用来表示条件判断，而叶节点则存储最终的分类结果，例如中年分支下的叶节点(4,0)表示4位客户购买，0位客户不购买。
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210401152754.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210401152754.png)
 
 
 ### 信息熵与条件熵
@@ -23,25 +23,25 @@ date: 2021-04-06
 * 熵原本是物理学中的一个定义，后来香农将其引申到了信息论领域，用来表示信息量的大小。
 * 信息量越大(分类越不“纯净”)，对应的熵值就越大，反之亦然。信息熵的计算公式如下:
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210401152933.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210401152933.png)
 
 * 在实际应用中，会将概率$P_k$的值用经验概率替换，所以经验信息熵可以表示为：
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210401153045.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210401153045.png)
 
 * 举例:以产品是否被购买为例，假设数据集一共包含14个样本，其中购买的用户有9个，没有购买 的用户有5个，所以对于是否购买这个事件来说，它的经验信息熵为:
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210401153309.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210401153309.png)
 
 * 条件熵
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210401153436.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210401153436.png)
 
 ### 信息增益
 
 * 信息增益：对于已知的事件A来说，事件D的信息增益就是D的信息熵与A事件下D的条件熵之差，事件A对于事件D的影响越大，条件熵H（D｜A）就会越小（在事件A的影响下，事件D就划分得越“纯净”），体现在信息增益熵就是差值越大，进而说明事件D的信息熵下降得越多。
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210401153924.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210401153924.png)
 
 * 所以，在根节点或中间节点的变量选择过程中，就是挑选出各自变量下因变量的信息增益最大的。
 
@@ -50,7 +50,7 @@ date: 2021-04-06
 * 决策树中的ID3算法使用信息增益指标实现根节点或中间节点的字段选择，但是该指标存在一个非常明显的缺点，即信息增益会偏向于取值较多的字段。
 * 为了克服信息增益指标的缺点，提出了信息增益率的概念，它的思想很简单，就是在信息增益的基础上进行相应的惩罚。信息增益率的公式可以表示为:
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210401154419.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210401154419.png)
 
 * 其中$H_A$为事件A的信息熵。事件A的取值越多$Gain_A$(D)可能越大，但同时$H_A$也会越大，这样以商的形式就实现了$Gain_A$(D)的惩罚。
 
@@ -59,21 +59,21 @@ date: 2021-04-06
 * 决策树中的C4.5算法使用信息增益率指标实现根节点或中间节点的字段选择，但该算法与ID3算法一致，都只能针对离散型因变量进行分类，对于连续型的因变量就显得束手无策了。
 * 为了能够让决策树预测连续型的因变量，Breiman等人在1984年提出了CART算法，该算法也称为分类回归树，它所使用的字段选择指标是基尼指数。
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210401160202.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210401160202.png)
 
 * 条件基尼指数
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210401160257.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210401160257.png)
 
 ### 基尼指数增益
 
 * 与信息增益类似，还需要考虑自变量对因变量的影响程度，即因变量的基尼指数下降速度的快慢，下降得越快，自变量对因变量的影响就越强。下降速度的快慢可用下方式子衡量:
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210401160454.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210401160454.png)
 
 ### 生成算法与划分标准
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210401163004.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210401163004.png)
 
 
 

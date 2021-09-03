@@ -10,51 +10,51 @@ date: 2021-04-16
 
 ## Bayes Classifier
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210417185443.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210417185443.png)
 
 ### Example of Bayes Theorem
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210417190339.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210417190339.png)
 
 ### Bayesian Classifiers
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210417190608.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210417190608.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210417190624.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210417190624.png)
 
 ## Naïve Bayes Classifier
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210417190646.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210417190646.png)
 
 ### How to Estimate Probabilities from Data?
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210417190930.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210417190930.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210417190946.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210417190946.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210417191006.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210417191006.png)
 
 ### Example of Naïve Bayes Classifier
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210417191045.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210417191045.png)
 
 ### Note on Probability Density Functions
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210417191113.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210417191113.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210417191128.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210417191128.png)
 
 ## Naïve Bayes Classifier
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210417191202.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210417191202.png)
 
 ### Example of Naïve Bayes Classifier
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210417191241.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210417191241.png)
 
 ## Handling Missing values
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210417191312.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210417191312.png)
 
 ## Summary
 

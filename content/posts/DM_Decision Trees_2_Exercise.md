@@ -10,7 +10,7 @@ date: 2021-04-09
 
 ## Question
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210416115012.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210416115012.png)
 
 Construct a decision tree with the following properties:
 1. Choose the best split based on GINI index;
@@ -23,28 +23,28 @@ Construct a decision tree with the following properties:
 
 #### Step 1
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210416115233.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210416115233.png)
 
 #### Step 2
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210416121533.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210416121533.png)
 
 
 #### Step 3
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210416121556.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210416121556.png)
 
 
 
 ### Predicting
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210416121649.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210416121649.png)
 
 
 
 
 ### Post Pruning
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210416121731.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210416121731.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210416121750.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210416121750.png)

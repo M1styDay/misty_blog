@@ -17,7 +17,7 @@ Hello！我是Misty，欢迎来到我的个人网站！
 
 其他的想到再写，谢谢你来看我的网站！
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/IMG_0295.JPG)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/IMG_0295.JPG)
 
 
 Test

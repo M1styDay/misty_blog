@@ -19,7 +19,7 @@ date: 2021-04-25
 
 核心指标--成交金额，GMV，业绩完成率，核心指标的环比，以及根据核心指标做出的优化执行动作。
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210429013026.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210429013026.png)
 
 ### 店铺单品数据
 
@@ -44,7 +44,7 @@ date: 2021-04-25
     * 流量渠道的数据处理：加入时间维度，周环比增长，找出每周流量渠道增长点。
     * 竞品流量来源结构
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210429013358.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210429013358.png)
 
 * 目标
     * 结合竞争对手的流量渠道，及时发现新的渠道入口，转化率高的流量来源进行跟进，转化率差的要找到原因。
@@ -54,22 +54,22 @@ date: 2021-04-25
 
 每个搜索的关键词都是用户的购买心智，关键词的变化也意味着用户购买需求的变化。对店铺的搜索关键词进行监控，每个关键词带来的访客，加购人数，加购率，支付件数，支付买家数，支付转化率，通过加入时间维度来找到变化的差异点，对关键词进行删减。
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210429013926.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210429013926.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210429013937.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210429013937.png)
 
 
 ### 推广指标数据
 
 * 流量规划设计
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210429014136.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210429014136.png)
 
 * 重要指标
     * 对直通车推广的数据按：产品消耗，推广计划，地域，关键词等建立计划；
     * 核心数据是：PPC，加购成本，ROI
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210429014200.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210429014200.png)
 
 * UV价值=转化率X客单价X利润率
     * 在保ROI的阶段就要注意推广工具的单次点击成本不要超过流量价值，如果某一个阶段是超过了，也要确定有其他手段可以延续利率获取。同理，这个逻辑也可以优化我们的获客成本。
@@ -77,36 +77,36 @@ date: 2021-04-25
 ### 店铺风控指标监控数据
 
 * 客服监控指标
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210429014431.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210429014431.png)
 
 * 平台风险防控
     * 把消费者经常咨询的问题点列入监控指标每周进行对比，看指标被询问的次数变化，从而进行解决，提升单品转化率
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210429014536.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210429014536.png)
 
 ### 营销活动效果监控
 
 * 重要指标
     * 优惠券使用效率，短信数据使用效率，达人合作，微博推广效率，平台津贴使用效率
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210429014624.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210429014624.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210429014646.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210429014646.png)
 
 
 ### 店铺利润监控
 
 * 全店利润记录
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210429014826.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210429014826.png)
 
 * 单品利润
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210429014848.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210429014848.png)
 
 * 单品爆款毛利润
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210429014920.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210429014920.png)
 
 
 ### 建立品牌运营决策模型
@@ -115,7 +115,7 @@ date: 2021-04-25
 
 每一次的执行过程，总结的结果都归档到公司的知识库作为决策心智的沉淀。
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210429015035.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210429015035.png)
 
 ### 小结
 
@@ -132,7 +132,7 @@ date: 2021-04-25
 
 * 分析市场所有类目的增长趋势，结合自己店铺的品类进行品类升级
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210429015239.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210429015239.png)
 
 ### 品牌现状
 
@@ -140,32 +140,32 @@ date: 2021-04-25
 
 ### 流量结构
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210429015448.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210429015448.png)
 
 
 ## 店铺诊断优化方案
 
 ### 爆款优化策略
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210429020131.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210429020131.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210429020140.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210429020140.png)
 
 ### 推广策略
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210429020220.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210429020220.png)
 
 ### 营销节奏规划
 
 营销节奏以类目小二给的为主，再结合品牌自己的用户运营节奏，拆分到月，周，日
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210429020242.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210429020242.png)
 
 ### 品牌投放策略规划
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210429020317.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210429020317.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210429020336.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210429020336.png)
 
 
 ### 优化方案执行时间

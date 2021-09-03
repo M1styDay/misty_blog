@@ -64,9 +64,9 @@ date: 2021-06-19
 
 * [样本大小如何选取](https://zhidao.baidu.com/question/79343527.html)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210821213606.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210821213606.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210821213841.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210821213841.png)
 
 
 ## 数学

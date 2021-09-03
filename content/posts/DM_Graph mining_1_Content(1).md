@@ -42,57 +42,57 @@ date: 2021-05-10
 
 ## Density of a graph
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210514020345.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210514020345.png)
 
 #### Example
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210514020703.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210514020703.png)
 
 ### Simple lemma
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210515102929.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210515102929.png)
 
 ### Our main problem
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210515103051.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210515103051.png)
 
 * Facts: A global optimum can be computed in polynomial time. There is a linear-time algorithm that computes an approximation to the problem..
 
 ### Densest Subgraph Algorithm
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210515103156.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210515103156.png)
 
 #### Example
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210515103646.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210515103646.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210515103702.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210515103702.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210515103719.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210515103719.png)
 
 ### Approximation Guarantee
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210515103805.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210515103805.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210515104039.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210515104039.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210515104054.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210515104054.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210515104108.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210515104108.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210515104359.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210515104359.png)
 
 #### Proof
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210515104457.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210515104457.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210515104519.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210515104519.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210515104531.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210515104531.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210515104548.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210515104548.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210515104602.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210515104602.png)
 
 ### Running Time
 
@@ -113,7 +113,7 @@ Three main techniques:
 
 ### Densest subgraph: variants
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210515104921.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210515104921.png)
 
 
 ### What about clique density?

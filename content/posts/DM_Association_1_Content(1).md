@@ -33,13 +33,13 @@ date: 2021-01-10
 
 ### Example: Frequent Itemsets
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210313202641.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210313202641.png)
 
 ### Monotonicity
 
 * For any sets of items I and any set of items J, it holds that:
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210313204444.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210313204444.png)
 
 ### Applications
 
@@ -78,11 +78,11 @@ date: 2021-01-10
 * **I → j** means: “if a basket contains all the items in I then it is likely to contain j.”
 * Confidence of this association rule is the probability of j given I, i.e.
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210313205234.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210313205234.png)
 
 ### Confidence
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210313205356.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210313205356.png)
 
 ### Finding Association Rules
 
@@ -109,7 +109,7 @@ if I \ {j} → j has high confidence, for any j in I.
 
 ### File Organization
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210313211936.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210313211936.png)
 
 
 ### Computation Model(2)
@@ -163,7 +163,7 @@ Therefore, 2*10^(10) (20 gigabytes) of main memory needed.
 
 ### Main Memory Data in A-priori
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210313221236.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210313221236.png)
 
 ### Frequent k-itemsets
 
@@ -171,7 +171,7 @@ Therefore, 2*10^(10) (20 gigabytes) of main memory needed.
     * $C_k$ = candidate k-sets = those that might be frequent sets (support ≥ s) based on information from the the (k –1)th pass . 
     * $F_k$ = the set of truly frequent k-itemsets.
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210313222007.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210313222007.png)
 
 ### A-Priori for All Frequent Itemsets
 

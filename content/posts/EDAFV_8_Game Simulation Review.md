@@ -153,4 +153,4 @@ We will take the following approach to practice our entrepreneurial strategic th
 
 As a framework, consider keeping a comparison chart like the following to remind you about the (a) companies and (b)industries covered, (c) what you found most useful about the strategy tool, (d) what your takeaways were and (e) when you should use this tool.
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210413115915.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210413115915.png)

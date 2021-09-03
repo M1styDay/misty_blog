@@ -12,65 +12,65 @@ date: 2021-01-09
 
 Support treshold：2
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210314185542.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210314185542.png)
 
 ### Pass 2
 
 Support treshold：2
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210314185634.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210314185634.png)
 
 ### Pass 3
 
 Support treshold：2
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210314190351.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210314190351.png)
 
 ## A-priori Algorithm
 
 ### Pass 1
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210314190518.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210314190518.png)
 
 ### Pass 2
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210314190701.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210314190701.png)
 
 ### Pass 3
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210314190827.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210314190827.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210314190913.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210314190913.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210314190933.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210314190933.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210314190957.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210314190957.png)
 
 ## PCY Algorithm
 
 ### Input Data
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210314191315.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210314191315.png)
 
 ### Pass 1
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210314191451.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210314191451.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210314191534.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210314191534.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210314191602.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210314191602.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210314191621.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210314191621.png)
 
 ### Pass 2
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210314191652.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210314191652.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210314191750.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210314191750.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210314191810.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210314191810.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210314191832.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210314191832.png)
 
 ### The remaining passes
 

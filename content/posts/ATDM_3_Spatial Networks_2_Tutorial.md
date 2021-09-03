@@ -17,7 +17,7 @@ Consider a spatial network database, which includes a road network graph G and a
 1. Every edge of G includes at least one point in P which has the label 'restaurant'. However, only five points in P have the label 'vegetarian'.
 2. The Euclidean distance between any two vertices of G is a lower bound of their shortest path distance.
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210318215341.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210318215341.png)
 
 ### Answer
 

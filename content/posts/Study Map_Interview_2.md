@@ -448,7 +448,7 @@ date: 2021-06-19
 
 [搭建数据指标体系（项目）](https://www.m1sty.com/2021/project_data-index_content/)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/%E5%9B%BE%E7%89%87%201.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/%E5%9B%BE%E7%89%87%201.png)
 
 
 

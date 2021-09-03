@@ -21,25 +21,25 @@ date: 2021-01-08
 #### Qustion 1-3
 * Table 2 shows a new list of baskets as well as the items they contain. Using the PCY algorithm, find all frequent itemsets with support threshold 0.33 (i.e. in this example they occur at least 33% of 6, i.e. at least two times.) To this end, we are going to use the hash function f(i,j) = (i+j)%3 (% and mod are equivalent). In particular you should specify for each pass of the algorithm, the frequent itemsets, as well as all the counters (and their values) kept in main memory by the PCY algorithm.
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210313234142.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210313234142.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210313234207.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210313234207.png)
 
 ### Answer 1
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210316162335.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210316162335.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210316162403.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210316162403.png)
 
 ## Practical exercise on FI and AR
 
 ### Question 4
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210316162615.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210316162615.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210316164248.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210316164248.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210316164324.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210316164324.png)
 
 ### Answer 4
 

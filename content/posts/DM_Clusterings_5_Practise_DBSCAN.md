@@ -27,11 +27,11 @@ date: 2021-02-06
 * 边界点：假设点p为核心对象，在其领域内包含了点b，如果点b为非核心对象，则称其为点p的边界点。
 * 异常点：不属于任何簇的样本点。
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210313103731.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210313103731.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210313103910.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210313103910.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210313103931.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210313103931.png)
 
 
 ## 理解密度聚类的过程
@@ -63,18 +63,18 @@ cluster.DBSCAN(eps=0.5, min_samples=5, metric=‘euclidean’, p=None)
 ### 球形簇的情况
 
 K-means
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210313104747.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210313104747.png)
 
 DBSCAN
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210313104758.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210313104758.png)
 
 ### 非球形簇的情况
 
 K-means
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210313104811.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210313104811.png)
 
 DBSCAN
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210313104840.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210313104840.png)
 
 
 DBSCAN难确定半径和MinPts

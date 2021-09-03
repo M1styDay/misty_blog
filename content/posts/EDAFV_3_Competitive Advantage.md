@@ -42,7 +42,7 @@ date: 2021-03-18
 
 #### Industry Average Profitability
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210321110711.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210321110711.png)
 
 * Add up the total profit of companies in industry Profit of Company 
     * 1 + 2 + 3 + 4 + 5 = $
@@ -55,7 +55,7 @@ date: 2021-03-18
 
 * Porter’s Competitive Advantage = Company with above average industry profitability
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210321111907.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210321111907.png)
 
 #### Takeawasys
 
@@ -73,7 +73,7 @@ date: 2021-03-18
 
 * How do you implement a differentiation or low-cost strategy? By analyzing and developing a unique combination of activities in the value chain
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210321112503.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210321112503.png)
 
 * Show the key activities that add value to a product in this industry by filling out the industry value chain template.
 * Include the typical activities that are performed in the value chain by many of the industry’s competitors since these highlight the dominant way companies have competed in the industry.
@@ -86,26 +86,26 @@ date: 2021-03-18
 * Step 1: Road bike industry value chain
 * Step 2: Compare to well-known industry competitor and brandname
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210321113423.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210321113423.png)
 
 * Step 3: What are price drivers? (green)
 * Step 4: What are cost drivers? (yellow)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210321113540.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210321113540.png)
 
 * Step 5: Develop a unique combination of acitivities and value props
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210321113710.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210321113710.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210321144934.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210321144934.png)
 
 #### Value Capture & Profit Margin
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210321145532.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210321145532.png)
 
 #### Value Capture & Split Profit Margin in Industry Value Chain with Retailers
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210321145851.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210321145851.png)
 
 #### Takeaways
 

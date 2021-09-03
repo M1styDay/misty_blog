@@ -40,9 +40,9 @@ date: 2021-03-10
 
 ### Simple "flow" model
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210323112627.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210323112627.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210323124308.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210323124308.png)
 
 ### Solving the flow equations
 
@@ -70,11 +70,11 @@ date: 2021-03-10
 
 ### Example
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210323130355.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210323130355.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210323130423.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210323130423.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210323172410.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210323172410.png)
 
 ## Eigenbector formulation
 
@@ -88,7 +88,7 @@ date: 2021-03-10
 
 ### Example
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210323131329.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210323131329.png)
 
 
 
@@ -96,12 +96,12 @@ date: 2021-03-10
 
 ### Introduction
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210323132025.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210323132025.png)
 
 
 ### Example
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210323134508.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210323134508.png)
 
 
 ## Random Walk Interpretation & The stationary distribution
@@ -138,7 +138,7 @@ date: 2021-03-10
 
 ### Example
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210323140154.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210323140154.png)
 
 
 
@@ -158,7 +158,7 @@ date: 2021-03-10
 
 #### Example
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210323140827.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210323140827.png)
 
 
 ### Solution: Random teleports
@@ -174,7 +174,7 @@ date: 2021-03-10
 
 #### Example(β = 0.8)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210323143618.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210323143618.png)
 
 
 ### Problem: Dead Ends
@@ -186,7 +186,7 @@ date: 2021-03-10
 
 #### Example
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210323144817.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210323144817.png)
 
 ### Solution: Dealing with dead-ends
 
@@ -208,34 +208,34 @@ date: 2021-03-10
 
 ### Introduction
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210323144450.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210323144450.png)
 
 
 ### Efficiency Issues
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210323145112.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210323145112.png)
 
 ### Rearranging the equation
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210323145156.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210323145156.png)
 
 ### Spares matrix
 
 #### Sparse matrix formulation
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210323145349.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210323145349.png)
 
 #### Spares matrix coding
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210323145417.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210323145417.png)
 
 
 
 ## Summary
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210323145450.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210323145450.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210323231327.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210323231327.png)
 
 
 

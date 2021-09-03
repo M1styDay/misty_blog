@@ -28,15 +28,15 @@ Topics covered
 
 **Minimum Viable Product**
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210316223521.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210316223521.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210316223628.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210316223628.png)
 
 ## Business Model Canvas
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210316223720.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210316223720.png)
 
-![](https://raw.githubusercontent.com/M1styDay/image_hosting/master/hugo_images/20210316223757.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210316223757.png)
 
 ## Steve Blank Lean Startup Videos
 
