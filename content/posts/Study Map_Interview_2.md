@@ -429,24 +429,17 @@ date: 2021-06-19
 
 ### 商业智能
 
-[商业智能](https://www.m1sty.com/2021/note_bi_map/)
+[商业智能](https://www.m1sty.com/2021/data-analysis_bi-sense/)
 
 
 ### 业务场景
 
-[分析场景](https://www.m1sty.com/2021/note_operational-issues/)
-[运营场景](https://www.m1sty.com/2021/note_industry-and-business-scenarios/)
-[店铺分析](https://www.m1sty.com/2021/note_shop-analysis/)
+[店铺分析](https://www.m1sty.com/2021/data-analysis_e-commerce-store-brand-diagnosis/)
 
-### MECE原则
-
-[梳理业务与指标](https://www.m1sty.com/2021/project_data-index_content/#%E6%A2%B3%E7%90%86%E4%B8%9A%E5%8A%A1%E4%B8%8E%E6%8C%87%E6%A0%87)
 
 ### 数据指标体系
 
-[指标体系](https://www.m1sty.com/2021/note_operational-issues/#%E6%8C%87%E6%A0%87%E4%BD%93%E7%B3%BB)
-
-[搭建数据指标体系（项目）](https://www.m1sty.com/2021/project_data-index_content/)
+[指标体系](https://www.m1sty.com/2021/project_data-index_content/)
 
 ![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/%E5%9B%BE%E7%89%87%201.png)
 
