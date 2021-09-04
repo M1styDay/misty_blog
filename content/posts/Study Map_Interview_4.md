@@ -9,6 +9,12 @@ date: 2021-06-19
 
 # 工作经历1
 
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210904111046.png)
+
+
+
+
+
 ## 日常监控
 
 ### 监控模块
