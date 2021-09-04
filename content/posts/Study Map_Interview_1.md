@@ -3,6 +3,7 @@ title: Resume Framework (1)
 author: "Misty"
 tags: ["Study map","Job"]
 categories: ["Study Map"]
+draft: true
 date: 2021-06-19
 ---
 
