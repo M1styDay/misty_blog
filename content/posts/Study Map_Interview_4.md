@@ -328,7 +328,9 @@ date: 2021-06-19
 
 #### 家电价保
 
-![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20210904110540.png)
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20211004152647.png)
+
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20211004145624.png)
 
 
 #### 价格健康度
@@ -353,12 +355,14 @@ date: 2021-06-19
 
 ### cps渠道
 
-* 整体变化/与其他品类相比变化（预警异常）
+* 与大盘相比的变化情况
+* 与其他品牌/品类相比的变化情况
+* 周期维度的变化情况（大促月）
 * 渠道健康度
     * 收货地址
     * 单个订单sku销量
     * 金额
-* cps的pv来源，数据异常
+* pv来源，pv变化情况，新老用户结构
 * 佣金
     * 佣金率
     * 佣金对象
@@ -374,15 +378,12 @@ date: 2021-06-19
 
 ### 家电价保
 
-* 整体
-    * 整体价保率（品类/品牌价保率）
-    * 价保申请时间段
-* 品牌维度
-    * 品牌
-    * 品类
-    * 持续比高
-* 渠道维度
-* 用户维度
+
+![](https://cdn.jsdelivr.net/gh/M1styDay/image_hosting@master/hugo_images/20211004152647.png)
+
+* 价保率/价保渗透率/价保深度
+* 用户渗透率/订单渗透率
+* 周期变化结构
 
 
 ## 大促监控
