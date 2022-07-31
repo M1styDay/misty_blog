@@ -23,5 +23,4 @@ menu = "main"
 
 ### 快乐源泉
 
-* [字母钢：高压锅说唱](https://www.bilibili.com/video/BV1Yy4y1J7yw)
 * [What are in the Tiffiany Young's Bag](https://www.bilibili.com/video/BV1Vi4y1F7Xr)
