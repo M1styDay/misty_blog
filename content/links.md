@@ -21,6 +21,3 @@ menu = "main"
 * [Jiumo搜书](https://www.jiumodiary.com/) 
 * [Canva](https://www.canva.com/) 
 
-### 快乐源泉
-
-* [What are in the Tiffiany Young's Bag](https://www.bilibili.com/video/BV1Vi4y1F7Xr)
